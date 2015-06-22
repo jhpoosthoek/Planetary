@@ -15,3 +15,6 @@ Fassett, C.I., Head, J.W., 2008. The timing of martian valley network activity: 
 # DTM Minus Scale
 ![MOLA Example](https://raw.githubusercontent.com/jhpoosthoek/Planetary/master/DTMMinusScale/MOLAExample.jpg)
 DTMMinusScale generates a smoothed interpolated version of a DTM and subtracts this from the DTM. The cellfactor is the smoothing factor. The above example is the MOLA data after a 256x smaller scale version was subtracted. The result clearly shows the morphology of the Hellas basin. This would normally not be visible when looking at the standard MOLA data in ArcGIS. It needs ArcGIS 10+ to run.
+
+# Make Mask Rasdaman
+This CGI script was made for www.planetserver.eu to add the possibility to extract WCPS information within a (irregular) polygon. This way a WCPS derived average CRISM spectrum within a certain polygon (geological layer) could be calculated.
