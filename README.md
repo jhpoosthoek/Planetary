@@ -12,5 +12,5 @@ Buffered Crater Counting, following the technique by Fasset and Head (2008). It 
 Fassett, C.I., Head, J.W., 2008. The timing of martian valley network activity: Constraints from buffered crater counting. Icarus 195, 61-89.
 
 # DTM Minus Scale
-![MOLA Example](http://raw.githubusercontent.com/jhpoosthoek/Planetary/master/DTMMinusScale/MOLAExample.jpg)
+![MOLA Example](https://raw.githubusercontent.com/jhpoosthoek/Planetary/master/DTMMinusScale/MOLAExample.jpg)
 DTMMinusScale generates a smoothed interpolated version of a DTM and subtracts this from the DTM. The cellfactor is the smoothing factor.
