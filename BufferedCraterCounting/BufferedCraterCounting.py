@@ -1,7 +1,9 @@
 # Buffered Crater Counting
+# By Jelmer Oosthoek (info@gispla.net)
+#
 # After: Fassett, C.I., Head, J.W., 2008. The timing of martian valley network activity: Constraints from buffered crater counting. Icarus 195, 61-89.
 #
-# See:
+# Made possible thanks to:
 # http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//0017000000tt000000
 # http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//000v00000001000000
 # http://blogs.esri.com/esri/arcgis/2010/02/23/how-do-i-use-arcpy-geometry-objects-in-scripting/
