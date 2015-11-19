@@ -23,7 +23,9 @@ This CGI script was made for www.planetserver.eu to add the possibility to extra
 # SHARAD SF Browse Field
 This script adds a BROWSEURL field in the PDS ODE SHARAD RDR footprint shapefile. When you open this shapefile in ArcGIS you can set the BROWSEURL field to open as a URL hyperlink:
 ![BROWSEURLhyperlink](https://raw.githubusercontent.com/jhpoosthoek/Planetary/master/SHARAD_SF_Browse_Field/BROWSEURLhyperlink.jpg)
+
 This allows you to click on a line in ArcGIS by using the Hyperlink button.
+
 Input data: http://ode.rsl.wustl.edu/mars/datafile/derived_products/coverageshapefiles/mars/mro/sharad/rdr/mars_mro_sharad_rdr_c0l.zip
 This script needs GDAL/OGR and https://github.com/jhpoosthoek/Python-shapefile-class/ to run.
 
