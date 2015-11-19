@@ -52,4 +52,5 @@ End Function
 ```
  - In ArcGIS click on the Hyperlink button (the lightning icon) and select a footprint.
  - HiView opens and the selected HiRISE image is loaded.
+
 In a similar way HiView could be connected to QGIS and Google Earth. Please let me know if you would find that handy.
