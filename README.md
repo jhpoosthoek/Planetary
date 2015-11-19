@@ -32,7 +32,7 @@ When you open this shapefile in ArcGIS you can set the BROWSEURL field to open a
 This allows you to click on a line in ArcGIS by using the Hyperlink button. The script needs GDAL/OGR and https://github.com/jhpoosthoek/Python-shapefile-class/ to run.
 
 # Connect HiView to ArcGIS 10
-This method allows you to connect within ArcGIS 10 to an online JPIP streamed HiRISE JP2 image through HiView:
+This method allows you to connect within ArcGIS 10 to HiView and load an online JPIP streamed HiRISE JP2 image:
  - Install HiView: http://www.uahirise.org/hiview/
  - Download the latest HiRISE footprints shapefile from the Mars Orbital Data Explorer:http://ode.rsl.wustl.edu/mars/datafile/derived_products/coverageshapefiles/mars/mro/hirise/rdrv11/mars_mro_hirise_rdrv11_c0a.zip
  - Add the shapefile to ArcMap.
