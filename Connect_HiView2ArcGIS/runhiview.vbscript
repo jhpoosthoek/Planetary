@@ -1,0 +1,9 @@
+Function OpenLink ( [Ext2URL] )
+Dim pathHiView
+Dim argHiView
+Dim objShell
+pathHiView = "C:\\Program Files\\HiView\\HiView.exe"
+argHiView =  "-Image " & [Ext2URL]
+Set objShell = CreateObject("Shell.Application")
+objShell.ShellExecute pathHiView, argHiView, "", "open", 1
+End Function
