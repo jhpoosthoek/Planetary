@@ -36,3 +36,6 @@ End Function
  - Now click on the Run Feature Action button and select HiView.
 ![QGIS_RunFeatureActionButton](https://raw.githubusercontent.com/jhpoosthoek/Planetary/master/Connect_HiView2GIS/QGIS_RunFeatureActionButton.jpg)
  - If you now click on a HiRISE footprint HiView will load showing the full resolution image.
+ 
+# Final note
+ - The color HiRISE footprint might be behind the larger greyscale footprint. It is best to make the polygon style semitransparent or only show the border.
